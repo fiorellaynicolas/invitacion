@@ -748,6 +748,7 @@ img:last-child {
 .fondofijo {
     background-image: url(../img/herofn2.jpg);
     background-attachment: fixed;
+    background-position: center center;
 }
 
 .imagebg {
