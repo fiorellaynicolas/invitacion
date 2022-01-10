@@ -751,6 +751,12 @@ img:last-child {
     background-position: center center;
 }
 
+@media all and (max-width: 1280px) {
+  .fondofijo {
+    postion: relative;
+  }
+}
+
 .imagebg {
   position: relative;
 }
