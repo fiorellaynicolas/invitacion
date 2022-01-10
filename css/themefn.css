@@ -748,13 +748,13 @@ img:last-child {
 .fondofijo {
     background-image: url(../img/herofn2.jpg);
     background-attachment: fixed;
-    background-position: center center;
+    background-position: top center;
     background-repeat: no-repeat;
 }
 
 @media all and (max-width: 1280px) {
   .fondofijo {
-    background-position: center center;
+    background-position: top center;
     background-repeat: no-repeat;
   }
 }
